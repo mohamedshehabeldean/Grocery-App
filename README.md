@@ -1,4 +1,3 @@
-# Grocery-App
 # Grocery App using flutter
 We are thrilled to unveil our latest project – a cutting-edge Flutter Grocery App! 🚀
 
