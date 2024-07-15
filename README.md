@@ -1,5 +1,5 @@
 # Grocery-App
-Grocery App using flutter
+# Grocery App using flutter
 We are thrilled to unveil our latest project – a cutting-edge Flutter Grocery App! 🚀
 
 Our Grocery Application is a robust mobile solution meticulously crafted to simplify the grocery shopping journey for users. Powered by the Flutter framework, the app boasts a seamless and user-friendly interface, efficient state management (Cubit), and a suite of features that enhance navigation, product selection, and checkout. The project's core objective is to provide users with a convenient and effective means to shop for groceries using their mobile devices.
